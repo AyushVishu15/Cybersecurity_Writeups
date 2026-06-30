@@ -4,7 +4,6 @@
 
 <p align="center">
 
-![CEH](https://img.shields.io/badge/CEH-v13-red)
 ![Module](https://img.shields.io/badge/Module-02-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
