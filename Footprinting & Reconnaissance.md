@@ -1,4 +1,4 @@
-<h1 align="center">🕵️ CEH v13 - Module 02</h1>
+<h1 align="center">🕵️- Module 02</h1>
 
 <h3 align="center">Footprinting & Reconnaissance</h3>
 
